@@ -1,0 +1,8 @@
+*~ 
+*.swp 
+*.pyc 
+*.pyo 
+temp/
+*.log
+build/
+tmp/
